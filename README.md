@@ -1,4 +1,5 @@
 **Disk Usage Monitoring & Analytics Project**
+Built a Linux disk monitoring system with cron-based automation, alerting, backups, and a Streamlit dashboard that visualizes usage trends and alerts.
 
 # 💽 Disk Usage Monitoring Dashboard
 
